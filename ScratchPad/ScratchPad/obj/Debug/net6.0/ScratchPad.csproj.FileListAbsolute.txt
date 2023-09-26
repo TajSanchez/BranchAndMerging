@@ -1,0 +1,14 @@
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\bin\Debug\net6.0\ScratchPad.exe
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\bin\Debug\net6.0\ScratchPad.deps.json
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\bin\Debug\net6.0\ScratchPad.runtimeconfig.json
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\bin\Debug\net6.0\ScratchPad.dll
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\bin\Debug\net6.0\ScratchPad.pdb
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.AssemblyInfoInputs.cache
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.AssemblyInfo.cs
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.csproj.CoreCompileInputs.cache
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.dll
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\refint\ScratchPad.dll
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.pdb
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ScratchPad.genruntimeconfig.cache
+C:\Users\tajma\Desktop\REPOS\ScratchPad\ScratchPad\obj\Debug\net6.0\ref\ScratchPad.dll
